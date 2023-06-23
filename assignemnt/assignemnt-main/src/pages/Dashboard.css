@@ -1,0 +1,52 @@
+.image {
+    text-align: center;
+    display: block;
+    padding-bottom: 2%;
+    margin-left: 38%;
+    float: left;
+    width: 3%;
+}
+.section {
+     text-align: center;
+    margin-right: 21%;
+    float: left;
+    position: relative;
+    vertical-align: middle;
+    display: flex;
+
+}
+
+
+.btn
+.btn-primary {
+    text-transform: uppercase;
+    letter-spacing: var(--mainSpacing);
+    color: var(--primaryColor);
+    border: 2px solid var(--primaryColor);
+    padding: 0.45rem 0.8rem;
+    display: inline-block;
+    transition: var(--mainTransition);
+    cursor: pointer;
+    font-size: 0.8rem;
+    background: transparent;
+    border-radius: var(--mainBorderRadius);
+    display: inline-block;
+  }
+
+  .heading {
+    text-align: center;
+  }
+
+  .btn-details {
+    padding: 0.25rem 0.4rem;
+  }
+  .btn-details:hover {
+    background: var(--primaryLightColor);
+    border-color: var(--primaryLightColor);
+  }
+
+.name{
+    margin-top: 5px;
+    padding-left: 20px;
+     
+}
