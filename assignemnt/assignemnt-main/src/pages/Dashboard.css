@@ -35,10 +35,12 @@
 
   .heading {
     text-align: center;
+   
   }
 
   .btn-details {
     padding: 0.25rem 0.4rem;
+    margin-top: 42px;
   }
   .btn-details:hover {
     background: var(--primaryLightColor);
@@ -46,7 +48,7 @@
   }
 
 .name{
-    margin-top: 5px;
+    margin-top: 45px;
     padding-left: 20px;
      
 }
